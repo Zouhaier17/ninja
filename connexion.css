@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(34, 2, 2)
+}
+
+h1{ 
+    color: rgb(4, 5, 24);
+    font-family:fantasy;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.container{
+    background-color: rgba(248, 250, 246, 0.897);
+    display: flex;
+    gap: 90px;
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 100px;
+    border-radius: 15px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    
+}
+.inpt1{
+    width: 200px;
+    height: 27px;
+    border-radius: 5px;
+    justify-content: center;
+    border-color: orangered;
+    background-color: white;
+    text-align: center;
+}
+.inpt2{
+    width: 200px;
+    height: 27px;
+    border-radius: 5px;
+    justify-content: center;
+    border-color: orangered;
+    background-color: white;
+    text-align: center;
+    
+    
+}
+.btn{ width: 210px;
+    height: 30px;
+    border-radius: 5px;
+    justify-content: center;
+    border-color: orangered;
+    background-color: rgb(146, 117, 177);
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: aliceblue;
+
+}
+.taswira{
+    border-radius: 10px;
+}
